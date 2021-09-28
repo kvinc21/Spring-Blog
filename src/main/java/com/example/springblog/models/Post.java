@@ -1,3 +1,4 @@
+
 package com.example.springblog.models;
 
 public class Post {
@@ -26,3 +27,4 @@ public class Post {
         this.body = body;
     }
 }
+
